@@ -1,4 +1,4 @@
-import styled, { keyframes } from 'styled-components';
+import styled from 'styled-components';
 import { shade } from 'polished';
 
 export const Container = styled.div`
@@ -15,16 +15,6 @@ export const Container = styled.div`
     h1 {
       margin-bottom: 24px;
       color: #3a3a3a;
-    }
-
-    input {
-      margin-top: 20px;
-      width: 280px;
-      height: 40px;
-      border: 10px;
-      padding-left: 15px;
-      border-radius: 4px;
-      color: #888888;
     }
 
     button {
