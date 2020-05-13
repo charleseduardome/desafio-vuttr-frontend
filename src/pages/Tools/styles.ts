@@ -40,7 +40,7 @@ export const Header = styled.div`
       color: #888888;
       margin-right: 30px;
     }
-    a {
+    p {
       margin-left: 5px;
       color: #888888;
     }
@@ -74,6 +74,14 @@ export const ListTools = styled.ul`
     border-radius: 5px;
     width: 100%;
     padding: 24px;
+
+    a {
+      text-decoration: none;
+      font-size: 24px;
+      color: #3a3a3a;
+      max-width: 450px;
+      line-height: 56px;
+    }
 
     button {
       width: 80px;
