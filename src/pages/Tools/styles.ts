@@ -83,6 +83,12 @@ export const ListTools = styled.ul`
       line-height: 56px;
     }
 
+    p {
+      max-width: 800px;
+      margin-left: 5px;
+      color: #888888;
+    }
+
     button {
       width: 80px;
       height: 40px;
