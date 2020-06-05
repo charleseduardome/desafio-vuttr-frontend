@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/charleseduardome/desafio-vuttr-backend/blob/master/preview.gif">
+  <img width="460" height="300" src="https://github.com/charleseduardome/desafio-vuttr-frontend/blob/master/preview.gif">
 </p>
 
 <a href="https://focused-mestorf-8a4dff.netlify.app/" class="button big">Live Demo</a>
